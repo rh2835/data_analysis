@@ -1,9 +1,8 @@
 ### DATA ANALYSIS
 
-## Usage
+## Contents
  - stock prediction
  - titanic passenger survival factor analysis
- - election <bold> (TODO) </bold> 
+ - election data project 
 ## Introduction
-
-Some introdution
+This repository contains three projects that were done in the Udemy python course. 
