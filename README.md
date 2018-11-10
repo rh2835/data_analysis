@@ -1,2 +1,2 @@
 # data_analysis
-### This repository contains some data analysis projects using statistical models and Python skills.
+This repository contains data analysis projects using statistical modeling and Python skills. The combining Python libraries are powerful for extracting, transforming and visualizing data. 
